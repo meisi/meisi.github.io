@@ -1,0 +1,2212 @@
+/* Public Scholar profile snapshot: 2026-10-28. Entries and variants retained as listed. */
+const papers=[
+  {
+    "authors": "M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:WwIwg2wKZ0QC",
+    "title": "Fluent but Fragile: Failures to Maintain Shared Task Interpretation in Task-Based Dialogue with Large Language Models",
+    "venue": "Proceedings of the Extended Abstracts of the 2026 CHI Conference on Human …",
+    "year": 2026,
+    "areaIds": [
+      "a0",
+      "a3"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:WwIwg2wKZ0QC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, K Chen, Y Zhou, A Weng",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:DXE8ND7PrJAC",
+    "title": "Interactive Contract Negotiation Learning with Generative AI Agents",
+    "venue": "International Conference on Human-Computer Interaction, 232-238",
+    "year": 2026,
+    "areaIds": [
+      "a0",
+      "a2"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:DXE8ND7PrJAC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "A Zhang, M Si",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:pYKElYtJMmwC",
+    "title": "Augmentation by segmenting audio in speech emotion recognition",
+    "venue": "Proceedings of the 7th ACM Conference on Conversational User Interfaces, 1-7",
+    "year": 2025,
+    "areaIds": [
+      "a0",
+      "a6"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:pYKElYtJMmwC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Q Wang, S Walsh, M Si, J Kephart, JD Weisz, AK Goel",
+    "citations": 43,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:sfnaS5RM6jYC",
+    "title": "Theory of mind in human-ai interaction",
+    "venue": "Extended abstracts of the CHI conference on human factors in computing …",
+    "year": 2024,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:sfnaS5RM6jYC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Y Chen, M Si",
+    "citations": 10,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:4e5Qn2KL_jwC",
+    "title": "Reflections & resonance: Two-agent partnership for advancing LLM-based story annotation",
+    "venue": "Proceedings of the 2024 Joint International Conference on Computational …",
+    "year": 2024,
+    "areaIds": [
+      "a0",
+      "a1"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://aclanthology.org/2024.lrec-main.1206/",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship.",
+    "pdf": "https://aclanthology.org/2024.lrec-main.1206.pdf"
+  },
+  {
+    "authors": "M Pisano, P Ly, A Sanders, B Yao, D Wang, T Strzalkowski, M Si",
+    "citations": 59,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:m4fbC6XIj1kC",
+    "title": "Bergeron: Combating adversarial attacks through a conscience-based alignment framework",
+    "venue": "arXiv preprint arXiv:2312.00029",
+    "year": 2023,
+    "areaIds": [
+      "a3"
+    ],
+    "topic": "Trustworthy AI",
+    "url": "https://arxiv.org/abs/2312.00029",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship.",
+    "pdf": "https://arxiv.org/pdf/2312.00029"
+  },
+  {
+    "authors": "Y Chen, R Li, B Shi, P Liu, M Si",
+    "citations": 7,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Og1tA8FjbJAC",
+    "title": "Visual story generation based on emotion and keywords",
+    "venue": "arXiv preprint arXiv:2301.02777",
+    "year": 2023,
+    "areaIds": [
+      "a0",
+      "a1"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://arxiv.org/abs/2301.02777",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship.",
+    "pdf": "https://arxiv.org/pdf/2301.02777"
+  },
+  {
+    "authors": "Z Battad, M Si",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:z8nqeaKD1nsC",
+    "title": "A System for Image Understanding using Sensemaking and Narrative",
+    "venue": "In Proceedings of the Ninth Annual Conference on Advances in Cognitive …",
+    "year": 2022,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:z8nqeaKD1nsC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "O Lockwood, M Si",
+    "citations": 259,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:8dzOF9BpDQoC",
+    "title": "Reinforcement learning with quantum variational circuit",
+    "venue": "Proceedings of the AAAI conference on artificial intelligence and …",
+    "year": 2020,
+    "areaIds": [
+      "a4"
+    ],
+    "topic": "Reinforcement learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:8dzOF9BpDQoC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "P Scerri, D Pynadath, L Johnson, P Rosenbloom, M Si, N Schurr, ...",
+    "citations": 185,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:u5HHmVD_uO8C",
+    "title": "A prototype infrastructure for distributed robot-agent-person teams",
+    "venue": "Proceedings of the second international joint conference on autonomous …",
+    "year": 2003,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:u5HHmVD_uO8C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "X Liu, S Wang, S Chang, W Chen, M Si",
+    "citations": 179,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:dhFuZR0502QC",
+    "title": "Effect of brief mindfulness intervention on tolerance and distress of pain induced by cold‐pressor task",
+    "venue": "Stress and Health 29 (3), 199-204",
+    "year": 2013,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:dhFuZR0502QC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "O Lockwood, M Si",
+    "citations": 150,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:jmjb1lOE9QIC",
+    "title": "A review of uncertainty for deep reinforcement learning",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence and …",
+    "year": 2022,
+    "areaIds": [
+      "a4"
+    ],
+    "topic": "Reinforcement learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:jmjb1lOE9QIC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella, DV Pynadath",
+    "citations": 138,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:u-x6o8ySG0sC",
+    "title": "Thespian: Using multi-agent fitting to craft interactive drama",
+    "venue": "Proceedings of the fourth international joint conference on Autonomous …",
+    "year": 2005,
+    "areaIds": [
+      "a0",
+      "a1"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:u-x6o8ySG0sC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella, DV Pynadath",
+    "citations": 101,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:d1gkVwhDpl0C",
+    "title": "THESPIAN: An Architecture for Interactive Pedagogical Drama.",
+    "venue": "AIED, 595-602",
+    "year": 2005,
+    "areaIds": [
+      "a1",
+      "a2"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:d1gkVwhDpl0C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella, DV Pynadath",
+    "citations": 98,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:qjMakFHDy7sC",
+    "title": "Modeling appraisal in theory of mind reasoning",
+    "venue": "Autonomous Agents and Multi-Agent Systems 20 (1), 14-31",
+    "year": 2010,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:qjMakFHDy7sC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella, DV Pynadath",
+    "citations": 78,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:9yKSN-GCB0IC",
+    "title": "Thespian: Modeling socially normative behavior in a decision-theoretic framework",
+    "venue": "International Workshop on Intelligent Virtual Agents, 369-382",
+    "year": 2006,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:9yKSN-GCB0IC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "WX Yuzheng Wang, Zhenzhen Qi, Stefan G. Hofmann, Mei Si, Xinghua Liu",
+    "citations": 61,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:JP7YXuLIOvAC",
+    "title": "Effect of Acceptance Versus Attention on Pain Tolerance: Dissecting Two Components of Mindfulness",
+    "venue": "Mindfulness 10 (7), 1352–1359",
+    "year": 2019,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:JP7YXuLIOvAC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "B Chang, L Sheldon, M Si, A Hand",
+    "citations": 53,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:M3ejUd6NZC8C",
+    "title": "Foreign language learning in immersive virtual environments",
+    "venue": "The Engineering Reality of Virtual Reality 2012 8289, 9-17",
+    "year": 2012,
+    "areaIds": [
+      "a2"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:M3ejUd6NZC8C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "MS Owen Lockwood",
+    "citations": 50,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:X0DADzN9RKwC",
+    "title": "Playing Atari with Hybrid Quantum-Classical Reinforcement Learning",
+    "venue": "Proceedings of Machine Learning Research 148, 285-301",
+    "year": 2021,
+    "areaIds": [
+      "a4"
+    ],
+    "topic": "Reinforcement learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:X0DADzN9RKwC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella, DV Pynadath",
+    "citations": 48,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:UeHWp8X0CEIC",
+    "title": "Directorial control in a decision-theoretic framework for interactive narrative",
+    "venue": "Joint International Conference on Interactive Digital Storytelling, 221-233",
+    "year": 2009,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:UeHWp8X0CEIC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 38,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:2v_ZtQDX9iAC",
+    "title": "A Virtual Space for Children to Meet and Practice Chinese.",
+    "venue": "International Journal of Artificial Intelligence in Education 25 (2), 271-290",
+    "year": 2015,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:2v_ZtQDX9iAC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "S Bringsjord, D Thero, M Si",
+    "citations": 38,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:e5wmG9Sq2KIC",
+    "title": "Akratic robots and the computational logic thereof",
+    "venue": "2014 IEEE International Symposium on Ethics in Science, Technology and …",
+    "year": 2014,
+    "areaIds": [
+      "a0",
+      "a3"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:e5wmG9Sq2KIC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 38,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:Wp0gIr-vW9MC",
+    "title": "A virtual space for children to meet and practice Chinese",
+    "venue": "the 4th International Workshop on Culturally-Aware Tutoring Systems …",
+    "year": 2013,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:Wp0gIr-vW9MC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Garber-Barron, M Si",
+    "citations": 35,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:Zph67rFs4hoC",
+    "title": "Using body movement and posture for emotion detection in non-acted scenarios",
+    "venue": "2012 IEEE International Conference on Fuzzy Systems, 1-8",
+    "year": 2012,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:Zph67rFs4hoC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Garber-Barron, M Si",
+    "citations": 30,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:9ZlFYXVOiuMC",
+    "title": "Adaptive storytelling through user understanding",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence and …",
+    "year": 2013,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:9ZlFYXVOiuMC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella, DV Pynadath",
+    "citations": 29,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:IjCSPb-OGe4C",
+    "title": "Proactive authoring for interactive drama: An author’s assistant",
+    "venue": "International Workshop on Intelligent Virtual Agents, 225-237",
+    "year": 2007,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&citation_for_view=HlJUn4EAAAAJ:IjCSPb-OGe4C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella, DV Pynadath",
+    "citations": 27,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:W7OEmFMy1HYC",
+    "title": "Evaluating directorial control in a character-centric interactive narrative framework",
+    "venue": "Proceedings of the 9th International Conference on Autonomous Agents and …",
+    "year": 2010,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:W7OEmFMy1HYC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella",
+    "citations": 26,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:_Qo2XoVZTnwC",
+    "title": "Encoding theory of mind in character design for pedagogical interactive narrative",
+    "venue": "Advances in Human‐Computer Interaction 2014 (1), 386928",
+    "year": 2014,
+    "areaIds": [
+      "a0",
+      "a1",
+      "a2"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:_Qo2XoVZTnwC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "L Lu, D., Voss, C. R., Tao, F., Ren, X., Guan, R., Korolov, R., Zhang, T ...",
+    "citations": 25,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:YB4bud6kWLwC",
+    "title": "Cross-media Event Extraction and Recommendation",
+    "venue": "NAACL, 72-76",
+    "year": 2016,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:YB4bud6kWLwC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "SC Pynadath, D. V., Si, M. & Marsella",
+    "citations": 25,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:BJrgspguQaEC",
+    "title": "Modeling Theory of Mind and Cognitive Appraisal with Decision-Theoretic Agents.",
+    "venue": "Social Emotions in Nature and Artifact: Emotions in Human and Human-Computer …",
+    "year": 2013,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:BJrgspguQaEC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "DV Pynadath, M Si, SC Marsella",
+    "citations": 25,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:ufrVoPGSRksC",
+    "title": "Modeling theory of mind and cognitive appraisal with decision-theoretic agents",
+    "venue": "Social Emotions in Nature and Artifact: Emotions in Human and Human-Computer …",
+    "year": 2013,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:ufrVoPGSRksC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, S Marsella, M Riedl",
+    "citations": 19,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Tyk-4Ss8FVUC",
+    "title": "Integrating story-centric and character-centric processes for authoring interactive drama",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence and …",
+    "year": 2008,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Tyk-4Ss8FVUC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "WL Johnson, S Marsella, N Mote, M Si, H Vilhjalmsson, S Wu",
+    "citations": 17,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:2osOgNQ5qMEC",
+    "title": "Balanced perception and action in the tactical language training system",
+    "venue": "Workshop on Embodied Conversational Agents: Balanced Perception & Action …",
+    "year": 2004,
+    "areaIds": [
+      "a2"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:2osOgNQ5qMEC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "LC Miller, PR Appleby, JL Christensen, C Godoy, M Si, C Corsbie-Massay, ...",
+    "citations": 16,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:4TOpqqG69KYC",
+    "title": "VIRTUAL INTERACTIVE INTERVENTIONS FOR REDUCING RISKY SEX",
+    "venue": "eHealth applications: promising strategies for health behavior change., 79-95",
+    "year": 2012,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:4TOpqqG69KYC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 16,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Se3iqnhoufwC",
+    "title": "Thespian: a decision-theoretic framework for interactive narratives",
+    "venue": "University of Southern California",
+    "year": 2010,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Se3iqnhoufwC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Z Battad, A White, M Si",
+    "citations": 15,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:4aZ_i-5WJEQC",
+    "title": "Facilitating information exploration of archival library materials through multi-modal storytelling",
+    "venue": "International Conference on Interactive Digital Storytelling, 120-127",
+    "year": 2019,
+    "areaIds": [
+      "a1",
+      "a5",
+      "a7"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:4aZ_i-5WJEQC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 15,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:qE4H1tSSYIIC",
+    "title": "Facilitate knowledge exploration with storytelling",
+    "venue": "Procedia Computer Science 88, 224-231",
+    "year": 2016,
+    "areaIds": [
+      "a1",
+      "a7"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:qE4H1tSSYIIC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "A Sanders, T Strzalkowski, M Si, A Chang, D Dey, J Braasch, D Wang",
+    "citations": 14,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:c_xDhezhKKUC",
+    "title": "Towards a progression-aware autonomous dialogue agent",
+    "venue": "Proceedings of the 2022 Conference of the North American Chapter of the …",
+    "year": 2022,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:c_xDhezhKKUC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella, MO Riedl",
+    "citations": 14,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:eQOLeE2rZwMC",
+    "title": "Interactive Drama Authoring with Plot and Character: An Intelligent System that Fosters Creativity.",
+    "venue": "AAAI Spring Symposium: Creative Intelligent Systems, 75-81",
+    "year": 2008,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:eQOLeE2rZwMC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Garber-Barron, M Si",
+    "citations": 13,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:_kc_bZDykSQC",
+    "title": "Towards interest and engagement, a framework for adaptive storytelling",
+    "venue": "Proceedings of the AAAI Conference on Artificial Intelligence and …",
+    "year": 2012,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:_kc_bZDykSQC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Y Chen, B Shi, M Si",
+    "citations": 12,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:yY3RG6sOEgwC",
+    "title": "Prompt to GPT-3: step-by-step thinking instructions for humor generation",
+    "venue": "arXiv preprint arXiv:2306.13195",
+    "year": 2023,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://arxiv.org/abs/2306.13195",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship.",
+    "pdf": "https://arxiv.org/pdf/2306.13195"
+  },
+  {
+    "authors": "M Si, JD McDaniel",
+    "citations": 12,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:RJOyoaXV5v8C",
+    "title": "Using facial expression and body language to express attitude for non-humanoid robot",
+    "venue": "Aamas, 1457-1458",
+    "year": 2016,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:RJOyoaXV5v8C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella, DV Pynadath",
+    "citations": 12,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:zYLM7Y9cAGgC",
+    "title": "Modeling appraisal in theory of mind reasoning",
+    "venue": "International Workshop on Intelligent Virtual Agents, 334-347",
+    "year": 2008,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:zYLM7Y9cAGgC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "P Scerri, L Johnson, DV Pynadath, P Rosenbloom, N Schurr, M Si, ...",
+    "citations": 12,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Y0pCki6q_DkC",
+    "title": "Getting Robots, Agents and People to Cooperate: An Initial Report",
+    "venue": "AAAI Spring Symposium on Human Interaction with Autonomous Systems in …",
+    "year": 2003,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Y0pCki6q_DkC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Y Xu, P Sequeira, S Marsella",
+    "citations": 11,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:EsEWqaRxkBgC",
+    "title": "Towards modeling agent negotiators by analyzing human negotiation behavior",
+    "venue": "2017 Seventh International Conference on Affective Computing and Intelligent …",
+    "year": 2017,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:EsEWqaRxkBgC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Z Battad, M Si",
+    "citations": 11,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:D_tqNUsBuKoC",
+    "title": "Using multiple storylines for presenting large information networks",
+    "venue": "International Conference on Intelligent Virtual Agents, 141-153",
+    "year": 2016,
+    "areaIds": [
+      "a1",
+      "a7"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:D_tqNUsBuKoC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Tedder, L Shi, M Si, R Franco, L Chen",
+    "citations": 11,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:qwy9JoKyICEC",
+    "title": "eMindfulness therapy—a study on efficacy of blood pressure and stress control using mindful meditation and eating apps among people with high blood pressure",
+    "venue": "Medicines 2 (4), 298-309",
+    "year": 2015,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:qwy9JoKyICEC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, S Marsella, L Miller",
+    "citations": 9,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:roLk4NBRz8UC",
+    "title": "Interactive stories for health interventions",
+    "venue": "Joint International Conference on Interactive Digital Storytelling, 291-292",
+    "year": 2010,
+    "areaIds": [
+      "a1",
+      "a5"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:roLk4NBRz8UC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, S Marsella, D Pynadath",
+    "citations": 9,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:LkGwnXOMwfcC",
+    "title": "Importance of well-motivated characters in interactive narratives: an empirical evaluation",
+    "venue": "Joint international conference on interactive digital storytelling, 16-25",
+    "year": 2010,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:LkGwnXOMwfcC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "A Showers, M Si",
+    "citations": 8,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:H_jBuBxbQIAC",
+    "title": "Pointing estimation for human-robot interaction using hand pose, verbal cues, and confidence heuristics",
+    "venue": "International Conference on Social Computing and Social Media, 403-412",
+    "year": 2018,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:H_jBuBxbQIAC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, SC Marsella",
+    "citations": 8,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:_FxGoFyzp5QC",
+    "title": "Modeling rich characters in interactive narrative games",
+    "venue": "",
+    "year": 2010,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:_FxGoFyzp5QC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, O Cobas, M Fababeir",
+    "citations": 7,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:4Yq6kJLCcecC",
+    "title": "Lexical error guard: leveraging large language models for enhanced ASR error correction",
+    "venue": "Machine Learning and Knowledge Extraction 6 (4), 2435-2446",
+    "year": 2024,
+    "areaIds": [
+      "a3"
+    ],
+    "topic": "Trustworthy AI",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:4Yq6kJLCcecC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 7,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:hSRAE-fF4OAC",
+    "title": "Tell a story about anything",
+    "venue": "International Conference on Interactive Digital Storytelling, 361-365",
+    "year": 2015,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:hSRAE-fF4OAC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "C Huang, Y Guo, Z Zhu, M Si, D Blankenberg, R Liu",
+    "citations": 6,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:nPTYJWkExTIC",
+    "title": "Quantum exploration-based reinforcement learning for efficient robot path planning in sparse-reward environment",
+    "venue": "2024 33rd IEEE International Conference on Robot and Human Interactive …",
+    "year": 2024,
+    "areaIds": [
+      "a0",
+      "a4"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:nPTYJWkExTIC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Z Battad, M Si",
+    "citations": 6,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:ZqE1mSdD_DYC",
+    "title": "Apply storytelling techniques for describing time-series data",
+    "venue": "International Conference on Interactive Digital Storytelling, 483-488",
+    "year": 2018,
+    "areaIds": [
+      "a1",
+      "a7"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:ZqE1mSdD_DYC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, D Thue, E André, J Lester, J Tanenbaum, V Zammitto",
+    "citations": 6,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:4DMP91E08xMC",
+    "title": "Interactive Storytelling: 4th International Conference on Interactive Digital Storytelling, ICIDS 2011, Vancouver, Canada, November 28-1 December, 2011, Proceedings",
+    "venue": "Springer",
+    "year": 2011,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:4DMP91E08xMC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, S Marsella, D Pynadath",
+    "citations": 6,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:YsMSGLbcyi4C",
+    "title": "Social norms models in thespian: Using decision theoretical framework for interactive dramas",
+    "venue": "Apr.) AISB'06 Proceedings. AISB, 70-77",
+    "year": 2006,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:YsMSGLbcyi4C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "B Yao, E Joseph, J Lioanag, M Si",
+    "citations": 5,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:c59VksA5Vz4C",
+    "title": "A Corpus for Commonsense Inference in the Story Cloze Test",
+    "venue": "LREC",
+    "year": 2022,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:c59VksA5Vz4C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Ji, Q Wang, Z Battad, J Gou, J Zhou, R Divekar, C Carlson, M Si",
+    "citations": 5,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:AzKEL7Gb_04C",
+    "title": "A two-layer dialogue framework for authoring social bots",
+    "venue": "Alexa Prize Proceedings",
+    "year": 2017,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:AzKEL7Gb_04C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, Z Battad, C Carlson",
+    "citations": 5,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Wq2b2clWBLsC",
+    "title": "Intertwined storylines with anchor points",
+    "venue": "International Conference on Interactive Digital Storytelling, 247-257",
+    "year": 2016,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Wq2b2clWBLsC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, JD McDaniel",
+    "citations": 5,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:eAlLMO4JVmQC",
+    "title": "Establish trust and express attitude for a non-humanoid robot",
+    "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 38",
+    "year": 2016,
+    "areaIds": [
+      "a0",
+      "a3"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:eAlLMO4JVmQC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 5,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:wE-fMHVdjMkC",
+    "title": "Should I Stop Thinking About It: A Computational Exploration of Reappraisal Based Emotion Regulation",
+    "venue": "Advances in Human-Computer Interaction",
+    "year": 2015,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:wE-fMHVdjMkC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "CG Godoy, LC Miller, C Corsbie-Massay, JL Christensen, PR Appleby, ...",
+    "citations": 5,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:7PzlFSSx8tAC",
+    "title": "Virtual validity: mHealth simulation games, diagnostic indicators, and behavior change",
+    "venue": "Journal of Mobile Technology in Medicine 2 (4s), 17-17",
+    "year": 2013,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:7PzlFSSx8tAC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Garber-Barron, M Si",
+    "citations": 5,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:mVmsd5A6BfQC",
+    "title": "The role of gender and age on user preferences in narrative experiences",
+    "venue": "International Conference on Interactive Digital Storytelling, 114-120",
+    "year": 2013,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:mVmsd5A6BfQC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, JD McDaniel",
+    "citations": 4,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:eGYfIraVYiQC",
+    "title": "Creating genuine smiles for digital and robotic characters: an empirical study",
+    "venue": "2015 IEEE Games Entertainment Media Conference (GEM), 1-6",
+    "year": 2015,
+    "areaIds": [
+      "a0",
+      "a1"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:eGYfIraVYiQC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "JD McDaniel, M Si",
+    "citations": 4,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:R3hNpaxXUhUC",
+    "title": "Length of Smile Apex as Indicator of Faked Expression",
+    "venue": "Affective Agents, 25",
+    "year": 2014,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:R3hNpaxXUhUC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Y Chen, M Si",
+    "citations": 3,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:eI34FqJmdUoC",
+    "title": "Enhancing Sentiment Analysis Results through Outlier Detection Optimization",
+    "venue": "arXiv preprint arXiv:2311.16185",
+    "year": 2023,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://arxiv.org/abs/2311.16185",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship.",
+    "pdf": "https://arxiv.org/pdf/2311.16185"
+  },
+  {
+    "authors": "Z Fernandes, E Joseph, D Vogel, M Si",
+    "citations": 3,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:m92CDrhVnKEC",
+    "title": "Self-attention for visual reinforcement learning",
+    "venue": "2023 IEEE Conference on Games (CoG), 1-8",
+    "year": 2023,
+    "areaIds": [
+      "a4"
+    ],
+    "topic": "Reinforcement learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:m92CDrhVnKEC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "L Zheng, M Si",
+    "citations": 3,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:s9ia6_kGH2AC",
+    "title": "Narrative Strategies in VR Movies, Traditional Movies, and Digital Games.",
+    "venue": "handbook of Research on the Global Impacts and Roles of Immersive Media",
+    "year": 2020,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:s9ia6_kGH2AC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, C Carlson",
+    "citations": 3,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:__bU50VfleQC",
+    "title": "A Data Driven Approach for Making Analogies",
+    "venue": "Cogsci",
+    "year": 2017,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:__bU50VfleQC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, J Schneider, M Bierkan",
+    "citations": 3,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:AZju0d2GQJ0C",
+    "title": "Postural responses to imposed optical flow: Task effects",
+    "venue": "Studies in Perception and Action VI, 153-156",
+    "year": 2001,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:AZju0d2GQJ0C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 2,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:N4u4nq0IxgcC",
+    "title": "Temporal Dynamics of Fragmentation in Reddit Meme Stock Communities: A Network Analysis of the GameStop Event",
+    "venue": "Proceedings of the 2025 Adjunct Proceedings of the 36th ACM Conference on …",
+    "year": 2025,
+    "areaIds": [
+      "a7"
+    ],
+    "topic": "Information exploration",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:N4u4nq0IxgcC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Y Zhou, M Si, J Doll",
+    "citations": 2,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:1r-w4gtu6w8C",
+    "title": "The potential of large language models in education: Applications and challenges in the learning of language, social science, health care, and science",
+    "venue": "International Conference on Human-Computer Interaction, 165-172",
+    "year": 2024,
+    "areaIds": [
+      "a2",
+      "a5"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:1r-w4gtu6w8C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "L Zheng, M Si, A Cao, T Ma",
+    "citations": 2,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:qmtmRrLr0tkC",
+    "title": "Enhancing episodic future thinking in children with ADHD: a virtual reality gaming therapy approach",
+    "venue": "International Conference on Human-Computer Interaction, 243-255",
+    "year": 2024,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:qmtmRrLr0tkC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Doll, M Si",
+    "citations": 2,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:R-LXmdHK_14C",
+    "title": "Building Rapport in Human-AI Interactions: A Theory of Mind Perspective",
+    "venue": "arXiv preprint",
+    "year": 2024,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:R-LXmdHK_14C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "B Chang, J Gabrilove, S Lawson, K Ruiz, M Si",
+    "citations": 2,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:LK8CI43ZvvMC",
+    "title": "CureQuest: A digital game for new drug discovery",
+    "venue": "2021 7th International Conference of the Immersive Learning Research Network …",
+    "year": 2021,
+    "areaIds": [
+      "a2",
+      "a5"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:LK8CI43ZvvMC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "LC Miller, JL Christensen, PR Appleby, SJ Read, S Marsella, ...",
+    "citations": 2,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:mB3voiENLucC",
+    "title": "Socially optimized learning in virtual environments (SOLVE): Developing, evaluating, and disseminating a game HIV prevention intervention nationally over the Web",
+    "venue": "Journal of Mobile Technology in Medicine 3 (1s), 4-4",
+    "year": 2014,
+    "areaIds": [
+      "a2",
+      "a5",
+      "a7"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:mB3voiENLucC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Q Wang, J Wester, M Pafla, M Lee, JD Weisz, M Si",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:hNSvKAmkeYkC",
+    "title": "ToMinHAI at CUI’2025: Theory of Mind in Human-CUI Interaction",
+    "venue": "Proceedings of the 7th ACM Conference on Conversational User Interfaces, 1-6",
+    "year": 2025,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:hNSvKAmkeYkC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:jlhcAiayVhoC",
+    "title": "Contrastive Learning with Multi-level Embeddings for Speech-Based Emotion Recognition",
+    "venue": "International Conference on Human-Computer Interaction, 312-321",
+    "year": 2024,
+    "areaIds": [
+      "a0",
+      "a6"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:jlhcAiayVhoC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Tyler, M Si, J Braasch",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:JWITY9-sCbMC",
+    "title": "Spatial location from running binaural signals using cepstral analysis and logarithmic filtering",
+    "venue": "The Journal of the Acoustical Society of America 153 (3_supplement), A85-A85",
+    "year": 2023,
+    "areaIds": [
+      "a6"
+    ],
+    "topic": "Speech & acoustics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:JWITY9-sCbMC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "A Sanders, M Schwartz, A Chang, S Briggs, J Braasch, D Wang, M Si, ...",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:wUn16MOA3RoC",
+    "title": "Towards a Proper Evaluation of Automated Conversational Systems",
+    "venue": "Artificial Intelligence and Social Computing 72, 77",
+    "year": 2023,
+    "areaIds": [
+      "a0",
+      "a3"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:wUn16MOA3RoC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Tyler, M Si, J Braasch",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:lYAcb2jw7qUC",
+    "title": "Predicting reflection patterns from binaural activity maps using deep neural networks",
+    "venue": "The Journal of the Acoustical Society of America 151 (4_Supplement), A222-A222",
+    "year": 2022,
+    "areaIds": [
+      "a6",
+      "a7"
+    ],
+    "topic": "Speech & acoustics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:lYAcb2jw7qUC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "A Chang, SRV Chabot, J Mathews, S Briggs, T Strzalkowski, M Si, ...",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:wLxue7F8ec0C",
+    "title": "A spatially-aware companion system for language learning and foreign-language dialogue",
+    "venue": "Proceedings of the 24th International Congress on Acoustics (ICA)",
+    "year": 2022,
+    "areaIds": [
+      "a0",
+      "a2"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:wLxue7F8ec0C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Ic1VZgkJnDsC",
+    "title": "Word Embedding for Analogy Making",
+    "venue": "International Conference on Computational Creativiy",
+    "year": 2022,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Ic1VZgkJnDsC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Z Battad, J Tyler, H Su, M Si",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:-uzm3Y7AvW0C",
+    "title": "A Coordinated Multi-channel Information Presentation Framework for Data Exploration",
+    "venue": "International Conference on Human-Computer Interaction, 153-173",
+    "year": 2019,
+    "areaIds": [
+      "a7"
+    ],
+    "topic": "Information exploration",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:-uzm3Y7AvW0C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:KWzIFqRkAKkC",
+    "title": "Infer creative analogous relationships from wikidata",
+    "venue": "International Conference on Human-Computer Interaction, 140-151",
+    "year": 2019,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:KWzIFqRkAKkC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:mel-f30kHHgC",
+    "title": "A Language Generation Toolkit for Expressing Agreement in Small Talk.",
+    "venue": "the 32nd International Conference on Computer Animation and Social Agents, 65-68",
+    "year": 2019,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:mel-f30kHHgC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "B Chang, S Lawson, K Ruiz, M Si, J Stewart, E Bagiella, JL Gabrilove, ...",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:zUl2_INMlC4C",
+    "title": "2515 Cure Quest: Teaching the complexities of drug discovery and development through an adventure game",
+    "venue": "Journal of Clinical and Translational Science 2 (S1), 53-53",
+    "year": 2018,
+    "areaIds": [
+      "a2",
+      "a5"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:zUl2_INMlC4C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "U Braasch, J., Radke, R. J., Wen, J., Si, M., Cunningham, A., Keddy-Hector ...",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:YTuZlYwrTOUC",
+    "title": "Audio/visual concepts for human/robot communication in immersive virtual environments",
+    "venue": "Journal of the Acoustical Society of America 135 (4), 2169",
+    "year": 2014,
+    "areaIds": [
+      "a0",
+      "a6"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:YTuZlYwrTOUC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 1,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:QIV2ME_5wuYC",
+    "title": "Do I need a body to encourage you? The effect of embodiment on social facilitation",
+    "venue": "2013 IEEE International Games Innovation Conference (IGIC), 241-242",
+    "year": 2013,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:QIV2ME_5wuYC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "L Manikonda, M Si, S Munira, O Seneviratne, K Bennett",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:ndLnGcHYRF0C",
+    "title": "The Uneven Impact of Generative AI on Student Learning: Examining the Roles of Reliance, Evaluation Literacy, and Course Policy in AI-related Courses",
+    "venue": "arXiv preprint arXiv:2609.18676",
+    "year": 2026,
+    "areaIds": [
+      "a2"
+    ],
+    "topic": "Learning",
+    "url": "https://arxiv.org/abs/2609.18676",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship.",
+    "pdf": "https://arxiv.org/pdf/2609.18676"
+  },
+  {
+    "authors": "J Wu, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:_tF6a-HnqWAC",
+    "title": "Evaluating Prompt Robustness in Text-to-Audio Systems for Adaptive Virtual Agents and Game Soundtracks",
+    "venue": "Proceedings of the 26th ACM International Conference on Intelligent Virtual …",
+    "year": 2026,
+    "areaIds": [
+      "a0",
+      "a3",
+      "a6"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:_tF6a-HnqWAC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "E Zwall, K Chen, Y Zhou, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:orDZ08hpP44C",
+    "title": "Grounding Player Intent in Game Commands: A Study of Compact Language Model Adaptation",
+    "venue": "Proceedings of the 26th ACM International Conference on Intelligent Virtual …",
+    "year": 2026,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:orDZ08hpP44C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Doll, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:lg2tdxc6qMwC",
+    "title": "Making Hidden Misalignment Observable: Interpretive Drift Detection for Pragmatic Misalignment in Collaborative Work",
+    "venue": "International Conference on Human-Computer Interaction, 401-414",
+    "year": 2026,
+    "areaIds": [
+      "a3"
+    ],
+    "topic": "Trustworthy AI",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:lg2tdxc6qMwC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Y Zhou, K Chen, M Si, A Weng",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Vr2j17o0sqMC",
+    "title": "Beyond Contracting Scripts: Transforming Negotiation Learning Through GenAI-Mediated Immersive Simulation",
+    "venue": "Immersive Learning Research-Practitioner",
+    "year": 2026,
+    "areaIds": [
+      "a2"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:Vr2j17o0sqMC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Doll, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:oTdOBqtIf_kC",
+    "title": "Making Hidden Misalignment Observable: Interpretive Drift Detection for Latent Pragmatic Misalignment",
+    "venue": "",
+    "year": 2026,
+    "areaIds": [
+      "a3"
+    ],
+    "topic": "Trustworthy AI",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:oTdOBqtIf_kC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "JB Jeramey Tyler, Mei Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:9DLIHnF0jcYC",
+    "title": "A cepstrum analysis approach to perceptual modelling of the precedence effect.",
+    "venue": "The 157th Audio Engineering Society Convention (AES)",
+    "year": 2024,
+    "areaIds": [
+      "a6"
+    ],
+    "topic": "Speech & acoustics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:9DLIHnF0jcYC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Tyler, M Si, J Braasch",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:BOlwja0KXvYC",
+    "title": "Predicting binaural room impulse responses from running signals using a cepstrum-based auditory model and deep learning",
+    "venue": "Journal of the Audio Engineering Society",
+    "year": 2023,
+    "areaIds": [
+      "a6"
+    ],
+    "topic": "Speech & acoustics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:BOlwja0KXvYC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "PLMS Yuetian Chen, Ruohua Li, Bowen Shi",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:QVtou7C4vgoC",
+    "title": "Visual Story Generation Based on Emotional and Keyword Scheme",
+    "venue": "the Workshop on Intelligent Narrative Technologies (INT), in conjunction …",
+    "year": 2022,
+    "areaIds": [
+      "a0",
+      "a1"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:QVtou7C4vgoC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "A Chang, M Si, S Chabot, J Mathews, T Strzalkowski, J Braasch",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:37UQlXuwjP4C",
+    "title": "A spatially-aware dialogue system for immersive classrooms",
+    "venue": "The Journal of the Acoustical Society of America 151 (4_Supplement), A132-A132",
+    "year": 2022,
+    "areaIds": [
+      "a0",
+      "a2"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=20&pagesize=80&citation_for_view=HlJUn4EAAAAJ:37UQlXuwjP4C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Tyler, M Si, J Braasch",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:ijdKiLOsEJMC",
+    "title": "Predicting room acoustical parameters from running signals using a precedence effect model and deep neural networks",
+    "venue": "Proceedings of the 24th International Congress on Acoustics (ICA)",
+    "year": 2022,
+    "areaIds": [
+      "a6",
+      "a7"
+    ],
+    "topic": "Speech & acoustics",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:ijdKiLOsEJMC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Zheng, L. and Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:OzeSX8-yOCQC",
+    "title": "Interaction Design in Virtual Reality and Games: From a Comparative Human Social and Psychological Needs Perspective.",
+    "venue": "Gameon",
+    "year": 2022,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:OzeSX8-yOCQC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "E Joseph, J Lioanag, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:jtI9f0ekYq0C",
+    "title": "Improving Data-to-Text Generation via Preserving High-Frequency Phrases and Fact-Checking",
+    "venue": "IJCoL. Italian Journal of Computational Linguistics 7 (7-1, 2), 223-244",
+    "year": 2021,
+    "areaIds": [
+      "a3",
+      "a7"
+    ],
+    "topic": "Trustworthy AI",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:jtI9f0ekYq0C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "JB Worth, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:nqdriD65xNoC",
+    "title": "Integrated Multi-task Agent Architecture with Affect-Like Guided Behavior",
+    "venue": "Biologically Inspired Cognitive Architectures Meeting, 602-612",
+    "year": 2021,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:nqdriD65xNoC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:QsKbpXNoaWkC",
+    "title": "Image Sequence Understanding through Narrative Sensemaking",
+    "venue": "",
+    "year": 2021,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:QsKbpXNoaWkC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Tyler, J Braasch, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:_AeoHAGD03cC",
+    "title": "SpeakEasy Pronunciation Trainer: Personalized Multimodal Pronunciation Training",
+    "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 43 (43)",
+    "year": 2021,
+    "areaIds": [
+      "a2",
+      "a6"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:_AeoHAGD03cC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Z Battad, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:s85pQhAUCrAC",
+    "title": "Understanding Image Sequences Via Narrative Sensemaking",
+    "venue": "Proceedings of the Annual Meeting of the Cognitive Science Society 43 (43)",
+    "year": 2021,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:s85pQhAUCrAC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "Z Battard, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:nPT8s1NX_-sC",
+    "title": "Image Sequence Understanding through Narrative Sensemaking",
+    "venue": "AAMAS, 1458-1460",
+    "year": 2021,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:nPT8s1NX_-sC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Tyler, M Si, H Zhou, hui su, J Braasch",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:hvmnpdAuIbkC",
+    "title": "SpeakEasy: Browser-based automated multi-language intonation training",
+    "venue": "The Journal of the Acoustical Society of America 148 (4_Supplement), 2697-2697",
+    "year": 2020,
+    "areaIds": [
+      "a2",
+      "a6"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:hvmnpdAuIbkC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:RuPIJ_LgqDgC",
+    "title": "Using Context to Help Predict Speaker’s Emotions in Social Dialogue",
+    "venue": "International Conference on Human-Computer Interaction, 444-453",
+    "year": 2020,
+    "areaIds": [
+      "a0",
+      "a6"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:RuPIJ_LgqDgC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "O Lockwood, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:hQUaER0FWQ4C",
+    "title": "Playing Atari with Hybrid Quantum-Classical Reinforcement Learning",
+    "venue": "the Preregistration Workshop on Machine Learning at NeurIPS 2020",
+    "year": 2020,
+    "areaIds": [
+      "a4"
+    ],
+    "topic": "Reinforcement learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:hQUaER0FWQ4C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Chang, B., Lawson, S., Ruiz, K., Si, M., Bagiella, E., Benn, E., & Gabrilove",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:oPLKW5k6eA4C",
+    "title": "Cure Quest: Team Science of Game Design for Medical Education.",
+    "venue": "Journal of Clinical and Translational Science 4 (S1), 59",
+    "year": 2020,
+    "areaIds": [
+      "a2",
+      "a5"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:oPLKW5k6eA4C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Tedder, L Shi, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:ji7lAbPyDbYC",
+    "title": "eMindfulness Therapy—A Study on Efficacy of Blood Pressure and Stress Control Using",
+    "venue": "Medicines, 2 (4)",
+    "year": 2019,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:ji7lAbPyDbYC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:G1UMdFYMoxkC",
+    "title": "How Can I Agree with You Better?",
+    "venue": "the 19th ACM International Conference on Intelligent Virtual Agents, 230-232",
+    "year": 2019,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:G1UMdFYMoxkC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "R Divekar, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:RtRctb2lSbAC",
+    "title": "Establishing Social Presence with a Voice-Only Chatbot.",
+    "venue": "the 5th Annual Conference on Advances in Cognitive Systems (ACS)",
+    "year": 2017,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:RtRctb2lSbAC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:t-hv7AR41mYC",
+    "title": "Collaborative Story Construction and Telling for Second Language Learning.",
+    "venue": "the 38th Annual Meeting of the Cognitive Science Society (Cogsci), 2979",
+    "year": 2016,
+    "areaIds": [
+      "a1",
+      "a2"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:t-hv7AR41mYC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "J Hendler, H Ji, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:MIg0yeAD4ggC",
+    "title": "Touring the World Wide Web",
+    "venue": "",
+    "year": 2016,
+    "areaIds": [
+      "a7"
+    ],
+    "topic": "Information exploration",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:MIg0yeAD4ggC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "B Godoy, C. G., Miller, L. C., Read, S. J., Corsbie-Massay, C., Si, M ...",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:SxCCDk4iOpsC",
+    "title": "When Real-Life Choices Predict Virtual Ones: Virtual Validity and Why It Matters.",
+    "venue": "the Division of Communication & Technology, International Communication …",
+    "year": 2015,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:SxCCDk4iOpsC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "A Liapis, M Cook, AM Smith, G Smith, A Zook, M Si, M Cavazza, ...",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:TQgYirikUcIC",
+    "title": "Workshops Held at the Ninth Annual AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment (AIIDE): A Report",
+    "venue": "AI Magazine 35 (2), 65-68",
+    "year": 2014,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:TQgYirikUcIC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "N Si, M. & Yongsatianchot",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:BmWJbWwHJAwC",
+    "title": "Computational modeling of parenting styles and academic performance.",
+    "venue": "the 36th Annual Meeting of the Cognitive Science Society (Cogsci), 3372",
+    "year": 2014,
+    "areaIds": [
+      "a2",
+      "a5"
+    ],
+    "topic": "Learning",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:BmWJbWwHJAwC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Miller, L.C., Christensen, J.L., Appleby, P.R., Read, S.J., Marsella, S ...",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:ghEM2AJqZyQC",
+    "title": "Developing, Evaluating, and Disseminating a Game HIV Prevention Interventions Nationally over the Web",
+    "venue": "Journal of Mobile Technology 3 (1(s)), 4",
+    "year": 2014,
+    "areaIds": [
+      "a5",
+      "a7"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:ghEM2AJqZyQC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Garber-Barron, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:n3vGvpFsckwC",
+    "title": "in Narrative Experiences",
+    "venue": "Interactive Storytelling: 6th International Conference, ICIDS 2013, Istanbul …",
+    "year": 2013,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:n3vGvpFsckwC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "C Godoy, LC Miller, C Corsbie-Massay, M Rolph, N Zhao, J Christensen, ...",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:A8cqit5AE6sC",
+    "title": "STREAMING CULTURALLY TAILORED INTERACTIVE HIV PREVENTION INTERVENTIONS FOR BLACK AND LATINO HIGH-RISK MSM",
+    "venue": "ANNALS OF BEHAVIORAL MEDICINE 45, S18-S18",
+    "year": 2013,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:A8cqit5AE6sC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Bringsjord, S., Govindarajulu, N. S. & Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:g5Ck-dwhA_QC",
+    "title": "A Robot That Knows What It’s Like to Live in Fear?",
+    "venue": "the Annual Meeting of the International Association for Computing and …",
+    "year": 2013,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:g5Ck-dwhA_QC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si, M Garber-Barron",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:L8Ckcad2t8MC",
+    "title": "Embodied Interactive Characters using Social Robots",
+    "venue": "DiGra",
+    "year": 2013,
+    "areaIds": [
+      "a0",
+      "a1"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:L8Ckcad2t8MC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "LC Miller, PR Appleby, JL Christensen, C Godoy, M Si, C Corsbie-Massay, ...",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:M0leSnx2MbUC",
+    "title": "Adaptations, Integrations, and Innovations",
+    "venue": "eHealth Applications: Promising Strategies for Behavior Change",
+    "year": 2012,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:M0leSnx2MbUC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:hGdtkIFZdKAC",
+    "title": "Evaluating the Importance of Human Realistic Walking Simulation for Creating Realistic Characters.",
+    "venue": "the International Society for Presence Research (ISPR) Annual Conference",
+    "year": 2012,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:hGdtkIFZdKAC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "H Boisvert, M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:-yGd096yOn8C",
+    "title": "\" Serious\" Game Play: From Virtual to Embodied",
+    "venue": "Philosophy of Computer Games",
+    "year": 2012,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:-yGd096yOn8C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Boisvert, H. & Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:1tZ8xJnm2c8C",
+    "title": "Activating Narcissus: Cognitive and Affective Systems Transformed Through \"Serious\" Game Play",
+    "venue": "the 6th International Conference on the Philosophy of Computer Games",
+    "year": 2012,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:1tZ8xJnm2c8C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "CG Christensen, M Si, C Corsbie-Massay, SJ Read, S Marsella, ...",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:T_ojBgVMvoEC",
+    "title": "VIRTUAL INTERACTIVE INTERVENTIONS FOR REDUCING RISKY SEX: : Adaptations, Integrations, and Innovations.",
+    "venue": "Interactive Health Communication Technologies: Promising Strategies for …",
+    "year": 2011,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:T_ojBgVMvoEC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "S Hove, P., Si, M., & Napier",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:2vr6o8x5NLkC",
+    "title": "Simultaneous Constraints on Postural Responses to Imposed Optical Flow.",
+    "venue": "Studies in Perception and Action, 65-68",
+    "year": 2001,
+    "areaIds": [
+      "a5"
+    ],
+    "topic": "Health & behavior",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:2vr6o8x5NLkC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:ymY9cBF3mdcC",
+    "title": "Turning Linear Stories into Thrillers: The Impact of Story Reordering and Familiarity",
+    "venue": "",
+    "year": null,
+    "areaIds": [
+      "a1"
+    ],
+    "topic": "Narrative & creativity",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:ymY9cBF3mdcC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:naSTrk-c4S8C",
+    "title": "Integrated Multi-Task Agent Architecture with Affect-Like Guided Behavior",
+    "venue": "",
+    "year": null,
+    "areaIds": [
+      "a0"
+    ],
+    "topic": "Human–AI interaction",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:naSTrk-c4S8C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "M Si",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:-6RzNnnwWf8C",
+    "title": "Human Realistic Walking Simulation Using Dynamic System",
+    "venue": "",
+    "year": null,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:-6RzNnnwWf8C",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  },
+  {
+    "authors": "K Selvarajah, D Richards, M Si, S Marsella, D Pynadath, P Gebhard",
+    "citations": 0,
+    "scholarUrl": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:SAZ1SQo2q1kC",
+    "title": "aarr as",
+    "venue": "",
+    "year": null,
+    "areaIds": [
+      "a8"
+    ],
+    "topic": "Other / review",
+    "url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&user=HlJUn4EAAAAJ&cstart=100&pagesize=100&citation_for_view=HlJUn4EAAAAJ:SAZ1SQo2q1kC",
+    "source": "Google Scholar",
+    "importedOn": "2026-10-28",
+    "classificationNote": "Provisional topic association based on the title; not a citation relationship."
+  }
+];
