@@ -75,6 +75,6 @@ document.querySelectorAll('[data-map-area]').forEach(b=>b.onclick=()=>{quest=nul
 drawMap();showDetail();updateQuest();
 
 document.querySelector('#quest-exit').onclick=()=>document.querySelector('#browse-map').onclick();
-if(location.hash==='#map')newQuest();
+
 
 document.querySelector('#quest-next-challenge').onclick=newQuest;
