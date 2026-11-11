@@ -79,3 +79,10 @@ body:has(#map:not([hidden])) .editorial-header{height:76px;min-height:76px}
 #play #map{border-top:1px solid var(--line)}#play #map #quest-panel{margin-top:0}#connection-slot{padding-top:8px}.game-panel{border-top:1px solid var(--line);padding-top:30px}#play #review-panel .review-lab{padding-top:0}
 @media(max-width:850px){.games-menu{gap:14px}.games-menu article{padding:20px}.games-menu h3{font-size:24px}.games-heading h2{font-size:39px}}
 @media(max-width:600px){.games-menu{grid-template-columns:1fr}.games-heading{padding-top:30px}.games-heading h2{font-size:36px}.games-menu article{padding:22px}.games-menu p{margin-bottom:15px}}
+
+.games-jump-links{display:flex;gap:12px;flex-wrap:wrap;margin:0 0 16px}.games-jump-links button{padding:10px 16px;background:var(--paper);font-size:12px}
+#play .games-heading{padding-bottom:12px}#games-selection-status{font-size:11px;margin-bottom:22px}
+.connection-game-heading h2{font:40px/1.2 var(--serif);margin:0 0 15px}.connection-game-heading p:not(.eyebrow){font-size:13px;color:var(--muted)}
+#connection-slot{scroll-margin-top:24px;padding-top:12px}#runner-panel,#review-panel{scroll-margin-top:24px;margin-top:45px}
+#play #map{border-top:0}#play #quest-panel{margin-top:15px}
+@media(max-width:600px){.games-jump-links{gap:8px}.games-jump-links button{font-size:11px;padding:9px 11px}.connection-game-heading h2{font-size:34px}}
