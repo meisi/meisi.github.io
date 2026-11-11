@@ -55,3 +55,17 @@ body:has(#map:not([hidden])) .editorial-header{height:76px;min-height:76px}
 #quest-path{font-size:10px}
 @media(max-width:850px){#map #node-detail{max-height:300px}body:has(#map:not([hidden])) .editorial-header{height:auto;min-height:90px;padding-top:14px}}
 @media(max-width:600px){#map #quest-panel{padding:15px}#quest-goal{font-size:22px}.quest-title{align-items:start;flex-wrap:wrap}.next-move-button{font-size:11px}.next-move-panel>p{font-size:10px}}
+
+.quest-complete{display:grid;grid-template-columns:52px 1fr;gap:18px;padding:24px;margin:14px 0 20px;background:var(--paper);border:2px solid var(--green);box-shadow:0 4px 18px #203b320c;animation:completion-arrive .35s ease-out}
+.completion-check{display:grid;place-items:center;background:var(--green);color:var(--bg);width:48px;height:48px;border-radius:50%;font-size:30px;font-weight:700}
+.quest-complete .eyebrow{margin:0 0 4px;color:var(--green)}
+#quest-complete-title{font:34px/1.1 var(--serif);margin:0 0 12px;color:var(--ink)}
+#quest-complete-summary{font-size:13px;margin:0 0 18px}
+#quest-next-challenge{padding:12px 20px;font-size:13px}
+#quest-panel:has(#quest-complete:not([hidden])){border-color:var(--green)}
+#quest-panel:has(#quest-complete:not([hidden])) .next-move-panel{display:none}
+.graph-node.won-target .area-node-bg,.graph-node.won-target .paper-node-bg{stroke:var(--green);stroke-width:6;fill:var(--sage)}
+.graph-node.won-target .map-flag{fill:var(--green);font-size:32px}
+@keyframes completion-arrive{from{opacity:.2;transform:translateY(6px)}to{opacity:1;transform:none}}
+@media(prefers-reduced-motion:reduce){.quest-complete{animation:none}}
+@media(max-width:600px){.quest-complete{grid-template-columns:34px 1fr;padding:17px;gap:12px}.completion-check{width:32px;height:32px;font-size:23px}#quest-complete-title{font-size:28px}}
