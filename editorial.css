@@ -33,3 +33,25 @@ html{scroll-behavior:smooth;scroll-padding-top:100px}body{font:16px/1.7 -apple-s
 .map-method p{margin-top:12px}
 @media(max-width:850px){.compact-map-intro{gap:22px;grid-template-columns:1fr 1.2fr}.map-game-invitation{padding:17px}.map-game-invitation strong{font-size:21px}}
 @media(max-width:600px){.compact-map-intro{grid-template-columns:1fr;gap:17px;padding:22px 0 16px}.compact-map-intro h2{font-size:34px}.compact-map-intro>.eyebrow{margin-bottom:6px}.map-game-invitation{padding:17px}.map-game-invitation .map-modes{flex-wrap:wrap}#map #paper-graph{max-height:none}}
+
+/* The inspector must never force the graph to center in a tall column. */
+#map .graph-layout{align-items:start;min-height:0}
+#map .graph-scroll{align-self:start;align-items:flex-start;min-height:0;height:auto}
+#map #paper-graph{align-self:flex-start;max-height:540px}
+#map #node-detail{max-height:540px;overflow-y:auto;overscroll-behavior:contain}
+body:has(#map:not([hidden])) .editorial-header{height:76px;min-height:76px}
+#map:has(#quest-panel:not([hidden])) .compact-map-intro{display:none}
+#map #quest-panel{margin:18px 0 12px;padding:18px 22px;background:var(--sage);border-color:var(--line)}
+#quest-goal{font:26px/1.2 var(--serif);margin:10px 0}
+#quest-status{margin:8px 0 12px}
+.quest-title>div{display:flex;gap:10px;flex-wrap:wrap}
+.quest-title button{font-size:10px}
+.next-move-panel{margin:14px 0 0;border-top:1px solid var(--line);padding-top:12px}
+.next-move-panel>strong{font-size:13px}
+.next-move-panel>p{font-size:11px;color:var(--muted);margin:3px 0 9px}
+#quest-next-moves{display:flex;gap:9px;flex-wrap:wrap}
+.next-move-button{background:var(--ink);color:var(--bg);border-color:var(--ink);padding:10px 14px;font-size:12px;text-align:left;max-width:100%}
+#quest-panel .quest-controls{margin-top:12px}
+#quest-path{font-size:10px}
+@media(max-width:850px){#map #node-detail{max-height:300px}body:has(#map:not([hidden])) .editorial-header{height:auto;min-height:90px;padding-top:14px}}
+@media(max-width:600px){#map #quest-panel{padding:15px}#quest-goal{font-size:22px}.quest-title{align-items:start;flex-wrap:wrap}.next-move-button{font-size:11px}.next-move-panel>p{font-size:10px}}
