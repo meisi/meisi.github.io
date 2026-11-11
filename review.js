@@ -1,0 +1,12 @@
+(()=>{
+const card=document.querySelector('#review-card'),score=document.querySelector('#review-score'),clock=document.querySelector('#review-clock');let state=null,timer=null,last=0;
+function el(tag,text,cls){const e=document.createElement(tag);if(text)e.textContent=text;if(cls)e.className=cls;return e}
+function render(){card.replaceChildren();if(!state)return;score.textContent=state.phase==='complete'?'Final score: '+state.score+'/6':'Brief '+(state.index+1)+'/6 · Correct: '+state.score;clock.textContent=Math.ceil(state.remaining)+'s';
+if(state.phase==='complete'){clearInterval(timer);const h=el('h3',state.timedOut?'Review time is up':state.score>=4?'Review complete — sharp eye!':'Review complete — keep investigating');card.append(h,el('p','You identified '+state.score+' of 6 methodological concerns. Try again for a new order of briefs and choices.'));const b=el('button','Try another review round →','button primary');b.onclick=start;card.append(b);return}
+const b=state.questions[state.index];card.append(el('p',b.theme,'eyebrow'),el('h3',b.title),el('p',b.brief));const choices=el('div',null,'review-choices');
+for(const choice of b.choices){const button=el('button',choice.text,'review-choice');button.disabled=state.phase!=='question';if(state.phase==='feedback'&&choice.id===b.answer)button.className+=' correct';if(state.phase==='feedback'&&choice.id===state.feedback.selected&&!state.feedback.correct)button.className+=' incorrect';button.onclick=()=>{window.ReviewLab.answer(state,choice.id);render()};choices.append(button)}card.append(choices);
+if(state.phase==='feedback'){const feedback=el('div',null,'review-feedback');feedback.setAttribute('role','status');feedback.append(el('strong',state.feedback.correct?'✓ Correct concern':'That is not the strongest concern'),el('p',b.why));const next=el('button',state.index===5?'See result →':'Next brief →','button primary');next.onclick=()=>{window.ReviewLab.next(state);last=Date.now();render()};feedback.append(next);card.append(feedback)}
+}
+function start(){clearInterval(timer);state=window.ReviewLab.create();last=Date.now();render();timer=setInterval(()=>{const now=Date.now(),dt=(now-last)/1000;last=now;if(document.hidden||location.hash!=='#play')return;const phase=state.phase;window.ReviewLab.elapse(state,dt);clock.textContent=Math.ceil(state.remaining)+'s';if(state.phase!==phase)render()},200)}
+document.querySelector('#review-start').onclick=start;
+})();
